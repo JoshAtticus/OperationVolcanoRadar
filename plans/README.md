@@ -1,0 +1,8 @@
+# Plans
+Leaked plans for open and closed source projects.
+
+## [Open Source](plans/opensource.md)
+Plans for things where the source code will eventually be available to the public.
+
+## [Closed Source](plans/closedsource.md)
+Plans for things that will be closed source. Code will hopefully be leaked here eventually if ever made available to my sources.
