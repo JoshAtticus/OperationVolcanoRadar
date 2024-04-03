@@ -1,2 +1,2 @@
-# ProjectVolcanoRadar
-Insights on Blaze's Project Volcano
+# Project Volcano Radar
+Leaked Insights on Blaze's Project Volcano 👀
