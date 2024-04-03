@@ -1,5 +1,5 @@
 # Closed Source Plans
-Plans for likely/confirmed closed source projects related directly or indirectly to Project Volcano. Bold italic text indicates speculation.
+Plans for likely/confirmed closed source projects related directly or indirectly to Operation Volcano. Bold italic text indicates speculation.
 
 ## Announced by Kyle
 ### Blaze Redesign
