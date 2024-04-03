@@ -1,9 +1,9 @@
 # Open Source Plans
-Plans for open source projects related directly or indirectly to Project Volcano. Bold italic text indicates speculation
+Plans for open source projects related directly or indirectly to Operation Volcano. Bold italic text indicates speculation
 
 ## Announced by Kyle
 ### Chat App v1
-Kyle claims to release the first version of the chat part of Project Volcano some time from April 9 - 16. It will be open sourced. No other details have been revealed as of April 3rd 2024.
+Kyle claims to release the first version of the chat part of Operation Volcano some time from April 9 - 16. It will be open sourced. No other details have been revealed as of April 3rd 2024.
 
 <img width="1349" alt="Screenshot 2024-04-03 at 18 31 35" src="https://github.com/JoshAtticus/ProjectVolcanoRadar/assets/72828296/df074278-4ad1-400a-ad8c-e604b68114ac">
 
