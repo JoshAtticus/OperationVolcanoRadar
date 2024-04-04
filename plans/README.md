@@ -6,3 +6,6 @@ Plans for things where the source code will eventually be available to the publi
 
 ## [Closed Source](closedsource.md)
 Plans for things that will be closed source. Code will hopefully be leaked here eventually if ever made available to my sources.
+
+## [Discussions](discussions.md)
+Things discussed by people in the Operation Volcano Discord server.
