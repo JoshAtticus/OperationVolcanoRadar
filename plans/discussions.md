@@ -13,3 +13,7 @@ radi8, tnix and kyle discuss storage space for storing videos. radi8 recommends 
 
 Kyle appears not to know anything about web hosting
 <img width="783" alt="Screenshot 2024-04-04 at 12 49 53" src="https://github.com/JoshAtticus/OperationVolcanoRadar/assets/72828296/48b411c8-4fe9-46d4-9807-48c8cfc7e6ff">
+
+## Database & File Hosting
+Continuing on the theme of Kyle being flat out stupid, 
+<img width="904" alt="Screenshot 2024-04-06 at 16 36 23" src="https://github.com/JoshAtticus/OperationVolcanoRadar/assets/72828296/e73494ba-b91e-459b-b1fc-3528ac35c6c6">
