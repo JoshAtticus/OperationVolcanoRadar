@@ -24,7 +24,9 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: self-hosted
+    runs-on: 
+      - self-hosted  # First try the self-hosted runner
+      - ubuntu-latest # Fallback 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -43,7 +45,9 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: self-hosted
+    runs-on: 
+      - self-hosted  # First try the self-hosted runner
+      - ubuntu-latest # Fallback 
     needs: build
     steps:
       - name: Deploy to GitHub Pages
