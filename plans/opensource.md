@@ -3,6 +3,12 @@ Plans for open source projects related directly or indirectly to Operation Volca
 
 ## Announced by Kyle
 ### Chat App v1
+
+> **Update as of April 23**
+> 
+> It's been a week since Kyle's deadline for Chat App v1, but no code has been released.
+> This indicates Kyle is unable to complete tasks on time and likely has poor organisation skills.
+
 Kyle claims to release the first version of the chat part of Operation Volcano some time from April 9 - 16. It will be open sourced. No other details have been revealed as of April 3rd 2024.
 
 <img width="1349" alt="Screenshot 2024-04-03 at 18 31 35" src="https://github.com/JoshAtticus/OperationVolcanoRadar/assets/72828296/df074278-4ad1-400a-ad8c-e604b68114ac"> <!-- Backup Image: https://github.com/JoshAtticus/OperationVolcanoRadar/assets/72828296/df074278-4ad1-400a-ad8c-e604b68114ac -->
