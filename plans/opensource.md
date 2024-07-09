@@ -17,3 +17,7 @@ Kyle claims to release the first version of the chat part of Operation Volcano s
 Kyle claims that a new Blaze Clips app will be launched to replace the Wix app currently used. It will be open sourced and will not rely on wix directly, ***but will likely be embedded into Blaze's existing wix site***.
 
 <img width="1350" alt="Screenshot 2024-04-03 at 18 35 30" src="https://github.com/JoshAtticus/OperationVolcanoRadar/assets/72828296/d68682a8-9515-4f34-aa3d-6cd11de9fcc7"> <!-- Backup image: https://github.com/JoshAtticus/OperationVolcanoRadar/assets/72828296/d68682a8-9515-4f34-aa3d-6cd11de9fcc7 -->
+
+### Operation Volcano App, Ember & Code
+On the 9th of July 2024 (Tuesday), Kyle claimed that the first Operation Volcano App, Ember and it's code will be released to developers before being released to everyone else on Friday (12 July 2024). This will be leaked here once made available!
+![image](https://github.com/JoshAtticus/OperationVolcanoRadar/assets/72828296/4a2108c0-b673-4899-a52b-0109a01dc0f1)
