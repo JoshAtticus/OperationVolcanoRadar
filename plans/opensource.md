@@ -20,4 +20,5 @@ Kyle claims that a new Blaze Clips app will be launched to replace the Wix app c
 
 ### Operation Volcano App, Ember & Code
 On the 9th of July 2024 (Tuesday), Kyle claimed that the first Operation Volcano App, Ember and it's code will be released to developers before being released to everyone else on Friday (12 July 2024). This will be leaked here once made available!
+
 ![image](https://github.com/JoshAtticus/OperationVolcanoRadar/assets/72828296/4a2108c0-b673-4899-a52b-0109a01dc0f1)
